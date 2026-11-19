@@ -3,8 +3,6 @@
 A multi-student online exam that runs over TCP sockets inside a Mininet network controlled by an OpenFlow 1.3 (OS-Ken) controller.
 When a noisy host congests the link to the exam server, the controller detects it and temporarily blocks that host so exams stay responsive.
 
-Team: Anagha Anantha Hebbale (AM026), Ayush Pathak (AM052), B Hiranmayi (AM054)
-
 ## What is in it
 
 - `src/server.py`, `src/client.py` – threaded TCP exam server and client

@@ -1,0 +1,3 @@
+os-ken>=2.8        # SDN controller framework (osken-manager) and its packet library
+matplotlib>=3.5    # charts in experiments/analyze_results.py
+# Mininet and Open vSwitch come from the OS:  sudo apt install mininet openvswitch-switch
